@@ -1,0 +1,39 @@
+{
+  "cart": {
+    "main-menu-title": "Carrinho de compras",
+    "blades": {
+      "carts-list": {
+        "title": "Carrinho de compras",
+        "labels": {
+          "customer": "Cliente",
+          "items-count": "Total de itens",
+          "created": "Criado",
+          "modified": "Modificado",
+          "total": "Total"
+        }
+      },
+      "cart-detail": {
+        "title": "{{name}} 's Shopping cart",
+        "labels": {
+          "name": "Nome",
+          "price": "Preço",
+          "quantity": "Qtd.",
+          "total": "Total"
+        }
+      }
+    },
+    "dialogs": {
+      "carts-delete": {
+        "title": "Confirmação de exclusão",
+        "message": "Você tem certeza que deseja excluir o carrinho selecionado?"
+      },
+      "cart-save": {
+        "title": "Alterações salvas",
+        "message": "O carrinho foi modificado. Você deseja salvar as alterações?"
+      }
+    },
+    "commands": {
+      "open-in-store": "Abrir na loja"
+    }
+  }
+}
