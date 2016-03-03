@@ -1,0 +1,23 @@
+﻿{
+  "search": {
+    "blades": {
+      "rebuildIndex": {
+        "title": "Reconstruir indice",
+        "labels": {
+          "progress": "Progresso",
+          "job": "Tarefa",
+          "state": "Estado"
+        }
+      }
+    },
+    "dialogs": {
+      "rebuild-index": {
+        "title": "Reconstruir indice",
+        "message": "O indice atual será excluido e reconstruido. Você tem certeza que deseja contronstruir o indice?"
+      }
+    },
+    "commands": {
+      "rebuild-index": "Reconstruir index"
+    }
+  }
+}
