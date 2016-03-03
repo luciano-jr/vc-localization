@@ -13,7 +13,7 @@
         }
       },
       "cart-detail": {
-        "title": "{{name}} 's Shopping cart",
+        "title": "Meu carrinho de compras",
         "labels": {
           "name": "Nome",
           "price": "Preço",
