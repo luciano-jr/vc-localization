@@ -2,7 +2,7 @@
   "search": {
     "blades": {
       "rebuildIndex": {
-        "title": "Reconstruir indice",
+        "title": "Reconstruir o indice",
         "labels": {
           "progress": "Progresso",
           "job": "Tarefa",
@@ -12,12 +12,12 @@
     },
     "dialogs": {
       "rebuild-index": {
-        "title": "Reconstruir indice",
-        "message": "O indice atual será excluido e reconstruido. Você tem certeza que deseja contronstruir o indice?"
+        "title": "Reconstruir o indice",
+        "message": "O indice atual será excluido e reconstruido. Tem certeza que deseja reconstruir o indice?"
       }
     },
     "commands": {
-      "rebuild-index": "Reconstruir index"
+      "rebuild-index": "Reconstruir o indice"
     }
   }
 }
