@@ -2,52 +2,52 @@
   "platform": {
     "commands": {
       "add": "Adicionar",
-      "assign": "Assinalar",
+      "assign": "Atribuir",
       "cancel": "Cancelar",
-      "clear-all": "Limpar tudo",
+      "clear-all": "Eliminar tudo",
       "close": "Fechar",
       "confirm": "Confirmar",
       "copy-link": "Copiar link",
       "create": "Criar",
       "cut": "Cortar",
-      "delete": "Deletar",
-      "download": "Baixar",
+      "delete": "Eliminar",
+      "download": "Descarregar",
       "edit": "Editar",
       "export": "Exportar",
       "generate": "Gerar",
       "import": "Importar",
       "install": "Instalar",
-      "manage": "Administrar",
+      "manage": "Gerir",
       "more": "Mais",
       "no": "Não",
       "new-folder": "Nova pasta",
       "ok": "Ok",
       "paste": "Colar",
-      "pick-selected": "Pegar selecionados",
-      "preview": "Previa",
-      "open-browser": "Abrir no Navegador",
+      "pick-selected": "Usar os selecionados",
+      "preview": "Pré-visualizar",
+      "open-browser": "Abrir o Browser",
       "redo": "Refazer",
       "refresh": "Atualizar",
       "remove": "Remover",
       "reset": "Reset",
       "restart": "Reiniciar",
-      "save": "Salvar",
+      "save": "Guardar",
       "send": "Enviar",
-      "select-all": "Marcar todos",
+      "select-all": "Selecionar todos",
       "settings": "Configurações",
       "sign-out": "Sair",
       "undo": "Desfazer",
       "uninstall": "Desinstalar",
-      "unselect-all": "Desmarcar todos",
-      "update": "Alterar",
-      "upload": "Subir",
+      "unselect-all": "Retirar Seleção",
+      "update": "Atualizar",
+      "upload": "Carregar",
       "yes": "Sim",
-      "add-new-property": "Adicionar nova propriedade",
-      "manage-type-properties": "Administrar tipos de propriedades",
-      "manage-profile": "Administrar perfil",
+      "add-new-property": "Adicionar propriedade",
+      "manage-type-properties": "Gerir tipos de propriedades",
+      "manage-profile": "Gerir o perfil",
       "Minimize": "Minimizar",
       "Maximize": "Maximizar",
-      "stop-sending": "Parar de enviar",
+      "stop-sending": "Parar o envio",
       "set-active": "Ativar",
       "reject-user": "Rejeitar usuário",
       "approve-user": "Aprovar usuário",
@@ -55,7 +55,7 @@
     },
     "list": {
       "no-data": "Sem dados",
-      "count": "Total"
+      "count": "Contar"
     },
     "placeholders": {
       "search-keyword": "Procurar palavra..."
@@ -74,7 +74,7 @@
         "description": "Número inteiro."
       },
       "decimal": {
-        "title": "Numero",
+        "title": "Número",
         "description": "Número com casas decimais."
       },
       "date-time": {
@@ -82,33 +82,33 @@
         "description": "Selecione a data."
       },
       "boolean": {
-        "title": "Booliano",
+        "title": "Booleano",
         "description": "Alterar tipo."
       },
       "html": {
         "title": "HTML",
-        "description": "Marcação HTML."
+        "description": "Linguagem HTML."
       },
       "undefined": {
-        "title": "Indefinido"
+        "title": "Não definido"
       }
     },
     "genericValueInput": {
       "placeholders": {
-        "short-text": "Entre com o texto curto",
-        "secure-string": "Entre com o texto secreto",
-        "long-text": "Entre com o texto longo",
-        "integer": "Entre com o número inteiro",
-        "number": "Entre com o número decimal",
+        "short-text": "Insira o texto curto",
+        "secure-string": "Insira o texto secreto",
+        "long-text": "Insira o texto longo",
+        "integer": "Insira o número inteiro",
+        "number": "Insira o número decimal",
         "date-time": "Escolha a data",
         "short-text-multivalue": "Adicionar valor",
         "integer-multivalue": "Adicionar inteiro",
         "number-multivalue": "Adicionar decimal",
         "short-text-dictionary": "Selecione valor",
         "short-text-dictionary-multivalue": "Selecione valor",
-        "short-text-multilang": "Entre com o valor",
-        "long-text-multilang": "Entre com o valor",
-        "html-multilang": "Entre HTML",
+        "short-text-multilang": "Insira o valor",
+        "long-text-multilang": "Insira o valor",
+        "html-multilang": "Insira HTML",
         "short-text-multivalue-multilang": "Adicionar valor",
         "short-text-dictionary-multilang": "Selecionar valor",
         "short-text-dictionary-multivalue-multilang": "Selecionar valor"

@@ -25,11 +25,11 @@
     "dialogs": {
       "carts-delete": {
         "title": "Confirmação de exclusão",
-        "message": "Você tem certeza que deseja excluir o carrinho selecionado?"
+        "message": "Tem certeza que deseja excluir o carrinho selecionado?"
       },
       "cart-save": {
-        "title": "Alterações salvas",
-        "message": "O carrinho foi modificado. Você deseja salvar as alterações?"
+        "title": "Alterações guardadas",
+        "message": "O carrinho foi alterado. Deseja guardar as alterações?"
       }
     },
     "commands": {
